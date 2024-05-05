@@ -7,7 +7,7 @@ on:
       gif_text:
         description: 'Gif to build'
         required: true
-        default: '公園紙箱來這邊領取。'
+        default: '菲菲還錢。'
       gif_frame:
         description: 'Gif frame'
         required: true
