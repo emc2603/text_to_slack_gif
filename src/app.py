@@ -10,7 +10,7 @@ default_frame = 5
 default_delay = 100
 image_size = 50
 y_offset = -10
-default_color = 'black'
+default_color = 'orange'
 default_width = 1
 
 logger = Logger('app')
