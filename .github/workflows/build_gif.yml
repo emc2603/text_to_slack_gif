@@ -16,7 +16,7 @@ on:
         description: 'Gif delay'
         required: true
         default: '100'
--c <orange>
+
 jobs:
   build-gif:
     runs-on: ubuntu-latest
